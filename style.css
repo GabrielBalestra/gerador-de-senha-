@@ -2,7 +2,7 @@
 
 :root {
 --branco: white;
---cor-de-fundo: #00162E;
+--cor-de-fundo: #01060c;
 --fundo-senha: #00244D;
 --fundo-texto: #001E40;
 --borda: #0075FF;
@@ -132,7 +132,7 @@ bottom: 30px;
 
 .fraca {
 width: 25%;
-background-color: #E71B32;
+background-color: #ff001e;
 }
 
 .media {
